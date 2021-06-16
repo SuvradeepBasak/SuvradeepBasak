@@ -1,4 +1,4 @@
-# Hi there, I'm The Pratyay Mustafi - 👋👋👋👋👋👋
+# Hi there, I'm The Suvradeep Basak - 👋👋👋👋👋👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/SuvradeepBasak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSuvradeepBasak&screen_name=SuvradeepBasak)
 ## I'm a Student, Developer, Learner, and Entrepreneur!!
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuvradeepBasak" alt="SuvradeepBasak" /></a> </p>
