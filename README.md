@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I love to read books.
-- 📫 How to reach me: Mail me to pratyaymustafi@gmail.com
+- 📫 How to reach me: Mail me to suvradeepbasak@yahoo.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="Arduino, Nodemcu, IoT" width="auto" height="40"></a>
